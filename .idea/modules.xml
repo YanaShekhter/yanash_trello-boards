@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello-web-boards.iml" filepath="$PROJECT_DIR$/.idea/modules/trello-web-boards.iml" group="trello-web-boards" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello-web-boards_main.iml" filepath="$PROJECT_DIR$/.idea/modules/trello-web-boards_main.iml" group="trello-web-boards" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello-web-boards_test.iml" filepath="$PROJECT_DIR$/.idea/modules/trello-web-boards_test.iml" group="trello-web-boards" />
+    </modules>
+  </component>
+</project>
